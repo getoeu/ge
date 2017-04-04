@@ -451,12 +451,15 @@
           "_styles": {
             "P": {
               "text-align": "center"
+            },
+            "B": {
+              "color": "#fac51c"
             }
           },
           "_anchor": "contacts1-i",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -484,7 +487,7 @@
             }
           },
           "text1": "",
-          "text2": "<b>კონტაქტი</b><br>\nEmail: info@geteu.ge<br>\nPhone: +995 (599) 999 955<br><br>",
+          "text2": "<b>კონტაქტი</b><br>\nEmail: info@geteu.ge<br>\nPhone: +995 595 233 424<br><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         }
       ]
